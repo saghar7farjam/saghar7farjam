@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/saghar7farjam/saghar7farjam/main/header.svg" width="100%" alt="Sleek Hero">
 
-<!--
-**saghar7farjam/saghar7farjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/saghar7farjam/saghar7farjam/main/about.svg" width="100%" alt="Sleek About">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/saghar7farjam/saghar7farjam/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br/>
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=saghar7farjam&bg=301d34&fg=f7f7fb&accent=dc0adc&muted=b6a9cf" width="100%" alt="Sleek GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/saghar7farjam/saghar7farjam/main/footer.svg" width="100%" alt="Sleek Wave">
